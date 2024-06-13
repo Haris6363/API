@@ -14,4 +14,4 @@ Now We can tryout the get Endpoint and Execute this. As a result, All the Evnets
 We can tryout the get(id) Endpoint and pass id as a parameter, the relevent id record will be get.
 In the case of Post Method, We can tryout and insert a new Event object by giving the values of each Propertry.
 In Put method, We can update the Alert object by id and the object will be updated.
-In Delete method, we can delete the Alert object for the relevent id.
+In Delete method, we can delete the Alert object for the relevent id.For this Purpose, We can input the id and the Event object will be deleted.
